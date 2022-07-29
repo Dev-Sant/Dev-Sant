@@ -1,4 +1,4 @@
-Olá, eu sou o <em><strong>Igor Alves Santaniello</strong></em> 👋
+Olá! Eu sou o <em><strong>Igor Alves Santaniello</strong></em> 👋
 
 Here are some ideas to get you started:
 
