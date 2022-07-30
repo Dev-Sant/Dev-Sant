@@ -2,8 +2,11 @@
 
 <div align="center">
   <a href="https://github.com/Dev-Sant">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Sant&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sant&layout=compact&langs_count=7&theme=highcontrast"/>
+  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Dev-Sant-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
