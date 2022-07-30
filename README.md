@@ -1,4 +1,4 @@
-# Olá! Eu sou o <em><strong>Igor Alves Santaniello</strong></em> 👋
+# Olá! Eu sou o <strong>Igor Alves Santaniello</strong> 👋
 
 <div align="center">
   <a href="https://github.com/Dev-Sant">
